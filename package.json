@@ -15,7 +15,7 @@
 	"files": ["dist"],
 	"main": "./dist/vue-nice-sidebar.umd.cjs",
 	"module": "./dist/vue-nice-sidebar.js",
-	"types": "./dist/types.d.ts",
+	"types": "./dist/index.d.ts",
 	"exports": {
 	  "./style.css": "./dist/style.css",
 	  ".": {
